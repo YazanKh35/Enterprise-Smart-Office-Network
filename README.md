@@ -1,6 +1,11 @@
 # Enterprise Smart Office Network Design  
-## Secure Multi-VLAN Architecture with Service Control & IoT Integration  
+## Secure Multi-VLAN Architecture with Service Control & IoT Integration
 
+## Project File
+
+Download the full Cisco Packet Tracer project:
+
+[Download Packet Tracer File](enterprise-smart-office-network.pkt)
 ---
 
 ## 1. Project Summary
