@@ -123,8 +123,19 @@ The objective is to implement structured network architecture with enforced acce
 - Structuring enterprise-grade addressing schemes  
 
 ---
+## Network Topology
 
-## 8. Author
+![Network Topology](topology.png)
+
+## IoT Fire Alarm – Active Scenario
+
+![IoT Alarm Active](fire-alarm-on.png)
+
+## Access Control List Configuration
+
+![ACL Configuration](acl-configuration.png)
+
+## Author
 
 Yazan Khaled  
 ICT Student  
