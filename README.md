@@ -9,7 +9,9 @@ This project simulates an enterprise-grade smart office network using Cisco Pack
 The design focuses on network segmentation, controlled inter-VLAN routing, service restriction, and IoT isolation following real-world enterprise security practices.
 
 The objective is to implement structured network architecture with enforced access control policies and monitored internal services.
+## Network Topology
 
+![Network Topology](topology.png)
 ---
 
 ## 2. Network Design Architecture
@@ -79,6 +81,9 @@ The objective is to implement structured network architecture with enforced acce
 - MQTT (Port 1883) allowed  
 - HTTP access for monitoring  
 - Full isolation from enterprise VLANs  
+## Access Control List Configuration
+
+![ACL Configuration](acl-configuration.png)
 
 ---
 
@@ -97,6 +102,9 @@ The objective is to implement structured network architecture with enforced acce
 ### Security
 - IoT traffic restricted via ACL  
 - Only required service ports opened  
+## IoT Fire Alarm – Active Scenario
+
+![IoT Alarm Active](fire-alarm-on.png)
 
 ---
 
