@@ -140,6 +140,5 @@ The objective is to implement structured network architecture with enforced acce
 ## Author
 
 Yazan Khaled  
-ICT Student  
-CCNA | CCNP  
+ICT Student   
 Aspiring Enterprise Network Engineer
