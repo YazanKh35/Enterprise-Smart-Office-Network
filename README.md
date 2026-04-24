@@ -140,5 +140,6 @@ The objective is to implement structured network architecture with enforced acce
 ## Author
 
 Yazan Khaled  
-ICT Student   
-Aspiring Enterprise Network Engineer
+Networking Enthusiast | ICT Student
+
+
